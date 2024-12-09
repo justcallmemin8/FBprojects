@@ -3,4 +3,5 @@
 
 
 # Tails
+<p align="center"><img alt="tails logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder3L.jpg?raw=true" width="300"></p>
 ### How to install
