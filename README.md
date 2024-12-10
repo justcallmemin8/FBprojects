@@ -16,3 +16,22 @@
 <p align="center">
   <b>ជាឧបករណ៍វាយប្រហារ និងឧបករណ៍ការពារ Wi-Fi/Bluetooth ដោយ ESP32</b></p><br>
 ## needed resource
+
+| SD Card | 2.8" TFT | ESP32  |
+| ------- | -------- | ------ |
+|         | VCC      | VCC    |
+|         | GND      | GND    |
+|         | CS       | GPIO17 |
+|         | RESET    | GPIO5  |
+|         | D/C      | GPIO16 |
+| SD_MOSI | MOSI     | GPIO23 |
+| SD_SCK  | SCK      | GPIO18 |
+|         | LED      | GPIO32 |
+| SD_MISO | MISO     | GPIO19 |
+|         | T_CLK    | GPIO18 |
+|         | T_CS     | GPIO21 |
+|         | T_DI     | GPIO23 |
+|         | T_DO     | GPIO19 |
+|         | T_IRQ    |        |
+| SD_CS   |          | GPIO12 |
+
