@@ -10,8 +10,8 @@
 
 ### needed resource<br>
 
-.Link download<a href="https://tails.net/install/windows/index.en.html#download">Tails</a><br>
-.Link download<a href="https://etcher.balena.io/#download-etcher">balenaEtcher</a>
+.Link download<a href="https://tails.net/install/windows/index.en.html#download"> Tails</a><br>
+.Link download<a href="https://etcher.balena.io/#download-etcher"> balenaEtcher</a>
 
 # ESP32_Marauder
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder3L.jpg?raw=true" width="250"></p>
