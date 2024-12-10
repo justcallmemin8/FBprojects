@@ -40,4 +40,13 @@
 
 ### needed resourse
 
+| -----------| ESP32 Marauder |
+|Bootloader  | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin">0x1000</a> |
+|Partitions  | GND |
+|Boot App    | CS |
+|Firmware    | RESET |
+
+<a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
+
+
 <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
