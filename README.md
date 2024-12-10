@@ -50,7 +50,7 @@
 [Web Updater](https://esp.huhn.me/) សម្រាប់សរសេរ<b>Maraunder</b>ចូល<b>ESP32</b>
 
 # Pico-bad USB
-<p align="center"><img alt="cambo" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/cambo.jpeg" width="300"></p>
+<p align="center"><img alt="pico" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/cambo.jpeg" width="300"></p>
 <p align="center">
-  <b>ប្រព័ន្ធប្រតិបត្តិការចល័តដែលការពារប្រឆាំងនឹងការឃ្លាំមើលនិងការត្រួតពិនិត្យ។</b></p><br>
+  <b>ឧបករណ៍USBមានថាមពលអាចបញ្ចូលPayloadsពេលដោតចូលទៅក្នុងកុំព្យូទ័រ</b></p><br>
 
