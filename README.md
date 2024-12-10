@@ -40,13 +40,12 @@
 
 ### needed resourse
 
-| -----------| ESP32 Marauder |
-|Bootloader  | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin">0x1000</a> |
-|Partitions  | GND |
-|Boot App    | CS |
-|Firmware    | RESET |
+| Menu       | ESP32 Marauder |
+| ---------- | -------------- |
+| Bootloader | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin">0x1000</a> |
+| Partitions | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.partitions.bin">0x8000</a> |
+| Boot App   | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin">0xE000</a> |
+| Firmware   | <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin">0x10000</a> |
 
 <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
 
-
-<a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
