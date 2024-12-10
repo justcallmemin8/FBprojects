@@ -47,5 +47,5 @@
 | Boot App   | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin">0xE000</a> |
 | Firmware <code>_old_hardware.bin</code>  | <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin">0x10000</a> |
 
-[Web Updater](https://esp.huhn.me/)
+[Web Updater](https://esp.huhn.me/) សម្រាប់សរសេរ<b>Maraunder</b>ចូល<b>ESP32</b>
 
