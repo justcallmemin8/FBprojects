@@ -38,3 +38,6 @@
 |         | T_IRQ    |        |
 | SD_CS   |          | GPIO12 |
 
+### needed resourse
+
+<a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
