@@ -10,8 +10,8 @@
 
 ### needed resource<br>
 
-.Link download<a href="https://tails.net/install/windows/index.en.html#download"> Tails</a><br>
-.Link download<a href="https://etcher.balena.io/#download-etcher"> balenaEtcher</a>
+.ទាញយក<a href="https://tails.net/install/windows/index.en.html#download"> Tails</a><br>
+.ទាញយក<a href="https://etcher.balena.io/#download-etcher"> balenaEtcher</a>
 
 # ESP32_Marauder
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder3L.jpg?raw=true" width="250"></p>
@@ -45,7 +45,7 @@
 | Bootloader | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.bootloader.bin">0x1000</a> |
 | Partitions | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/MarauderV4/esp32_marauder.ino.partitions.bin">0x8000</a> |
 | Boot App   | <a href="https://github.com/justcallmekoko/ESP32Marauder/raw/master/FlashFiles/FlipperZeroMultiBoardS3/boot_app0.bin">0xE000</a> |
-| Firmware   | <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin">0x10000</a> |
+| Firmware <code>_old_hardware.bin</code>  | <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin">0x10000</a> |
 
-<a href="https://github.com/justcallmekoko/ESP32Marauder/releases/download/v1.1.0/esp32_marauder_v1_1_0_20241128_old_hardware.bin"> esp32_marauder_v1_1_0_20241128_old_hardware.bin</a>
+[Web Updater](https://esp.huhn.me/)
 
