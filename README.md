@@ -60,8 +60,13 @@
 
 <h3>Most used <code>lib</code></h3>
 
-| adafruit-circuitpython-bundle | lib            |
+| adafruit-circuitpython-bundle | pico           |
 | ----------------------------- | -------------- |
+| adafruit_hid                  | lib            |
+| adafruit_debouncer.mpy | lib |
+| adafruit_ticks.mpy | lib |
+| asyncio | lib |
+| adafruit_wsgi | lib |
 
   
 
