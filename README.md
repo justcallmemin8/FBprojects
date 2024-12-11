@@ -70,7 +70,7 @@
 | adafruit_wsgi | lib |
 
 # BeEF
-<p align="center"><img alt="beef" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/beef-xss-logo.png" width="300"></p>
+<p align="center"><img alt="beef" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/beef-xss-logo.png" width="250"></p>
 <p align="center">
   <b>Browser Exploitation Framework</b></p><br>
   
