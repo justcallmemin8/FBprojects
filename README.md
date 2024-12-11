@@ -58,7 +58,7 @@
 ទាញយក<a href="https://circuitpython.org/board/raspberry_pi_pico/" rel="nofollow"> CircuitPython </a>សម្រាប់ Raspberry Pi Pico<br>
 ទាញយក<a href="/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20241210/adafruit-circuitpython-bundle-9.x-mpy-20241210.zip">adafruit-circuitpython-bundle-9.x-mpy-20241210.zip</a><br>
 
-<h2>Most used <code>lib</code></h2>
+<h3>Most used <code>lib</code></h3>
 
 | Menu       | ESP32 Marauder |
 | ---------- | -------------- |
