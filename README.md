@@ -6,7 +6,7 @@
 
 
 
-# Tails
+# Tails 👻
 <p align="center"><img alt="tails logo" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/231-2314839_tails-for-privacy-and-anonymity-tails-tor-png.png" width="300"></p><br>
 <p align="center">
   <b>ប្រព័ន្ធប្រតិបត្តិការចល័តដែលការពារប្រឆាំងនឹងការឃ្លាំមើលនិងការត្រួតពិនិត្យ។</b></p><br>
@@ -16,7 +16,7 @@
 .ទាញយក<a href="https://tails.net/install/windows/index.en.html#download"> Tails</a><br>
 .ទាញយក<a href="https://etcher.balena.io/#download-etcher"> balenaEtcher</a>
 
-# ESP32_Marauder
+# ESP32_Marauder 💀
 <p align="center"><img alt="Marauder logo" src="https://github.com/justcallmekoko/ESP32Marauder/blob/master/pictures/marauder3L.jpg?raw=true" width="250"></p>
 <p align="center">
   <b>ជាឧបករណ៍វាយប្រហារ និងឧបករណ៍ការពារ Wi-Fi/Bluetooth ដោយ ESP32</b></p><br>
@@ -52,7 +52,7 @@
 
 [Web Updater](https://esp.huhn.me/) សម្រាប់សរសេរ<b>Maraunder</b>ចូល<b>ESP32</b>
 
-# Pico-bad USB
+# Pico-bad USB 🎭
 <p align="center"><img alt="pico" src="https://github.com/justcallmemin8/hack_FB_resource/blob/main/tails_img/raspberry-pi-pico_5.png" width="300"></p>
 <p align="center">
   <b>ឧបករណ៍USBមានថាមពលអាចបញ្ចូលPayloadsពេលដោតចូលទៅក្នុងកុំព្យូទ័រ</b></p><br>
